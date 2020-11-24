@@ -1,1 +1,1 @@
-temporary readme to be superseded my Mike's
+temporary readme to be superseded by Mike's
